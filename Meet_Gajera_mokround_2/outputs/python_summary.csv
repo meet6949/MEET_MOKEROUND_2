@@ -1,0 +1,3 @@
+department,total_tickets,breached,avg_resolution_hours,sla_breach_rate_pct
+Technical,6,3,28.33,50.0
+Service,6,2,19.33,33.33
